@@ -1,0 +1,6 @@
+torch
+opencv-python
+python-dotenv
+ultralytics==8.0.196
+roboflow
+
